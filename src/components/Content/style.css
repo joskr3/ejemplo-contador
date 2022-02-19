@@ -1,0 +1,10 @@
+.contenedor {
+    box-sizing: border-box;
+    height: 70vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin: 2rem;
+    border: 1px solid black;
+}
